@@ -407,9 +407,9 @@ csmall {
 	background: {{ site.colors.primary }};
 }
 
-/* Contact Page */
-#contactwrap {
-	background: url(../img/contact.jpg) no-repeat center top;
+/* Links Page */
+#linkswrap {
+	background: url(../img/links.jpg) no-repeat center top;
 	margin-top: -60px;
 	padding-top:0px;
 	text-align:center;
