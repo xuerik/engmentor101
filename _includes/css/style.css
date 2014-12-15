@@ -369,7 +369,7 @@ a:focus {
 	color: {{ site.colors.primary }}
 }
 
-/* Index Wrap */
+/* Index Wrap
 #indexwrap {
 	background: url(../img/blueled.jpg) no-repeat center top;
 	background-size: contain;
@@ -390,7 +390,7 @@ a:focus {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-}
+}*/
 
 /*	################################################################
 	PAGE CONFIGURATIONS
@@ -465,7 +465,7 @@ csmall {
 
 #linkstextwrap h4 {
 	margin-top: 0px;
-	margin-bottom: 10px;
+	margin-bottom: 8px;
 	line-height: 20px;
 }
 
