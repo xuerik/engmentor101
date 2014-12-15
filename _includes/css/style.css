@@ -435,6 +435,11 @@ csmall {
 	font-weight: 700;
 }
 
+#linkswrap h4 {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
 /* Blog Page */
 .popular-posts { 
 	margin: 0px;
