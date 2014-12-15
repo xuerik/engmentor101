@@ -213,10 +213,9 @@ a:focus {
 	text-align: center;
 	vertical-align: text-bottom;
 
-	background: url(../img/blueled.jpg);
+	background: url(../img/blueled.jpg) no-repeat fixed;
 	/*margin-top: -60px;*/
 	background-attachment: relative;
-	background-position: center center;
 	width: 100%;
 	
     -webkit-background-size: 100%;
