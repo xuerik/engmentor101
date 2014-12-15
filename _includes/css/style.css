@@ -429,6 +429,11 @@ csmall {
     background-size: cover;
 }
 
+#linkswrap h3, h5 {
+	color: black;
+	font-weight: 400;
+}
+
 /* Blog Page */
 .popular-posts { 
 	margin: 0px;
