@@ -432,7 +432,7 @@ csmall {
 #linkstextwrap h2 {
 	margin-top: 0px;
 	margin-bottom: 0px;
-	line-height: 20px;
+	line-height: 24px;
 }
 
 #linkstextwrap h3, h5 {
@@ -441,7 +441,9 @@ csmall {
 }
 
 #linkstextwrap h4 {
-	line-height: 50px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	line-height: 20px;
 }
 
 /* Blog Page */
