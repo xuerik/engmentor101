@@ -211,10 +211,9 @@ a:focus {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	text-align: center;
-	vertical-align: text-bottom;
+	/*vertical-align: text-bottom;*/
 
 	background: url(../img/blueled.jpg) no-repeat fixed;
-	/*margin-top: -60px;*/
 	background-attachment: relative;
 	width: 100%;
 	
