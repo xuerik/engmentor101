@@ -211,6 +211,23 @@ a:focus {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	text-align: center;
+
+	background: url(../img/blueled.jpg) no-repeat center top;
+	background-size: 100% 100%;
+	margin-top: -60px;
+	background-attachment: relative;
+	background-position: center center;
+	width: 100%;
+	
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
 #headerwrap h3, h5 {
