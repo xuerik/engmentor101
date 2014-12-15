@@ -212,7 +212,7 @@ a:focus {
 	padding-bottom: 0px;
 	text-align: center;
 
-	background: url(../img/blueled.jpg) no-repeat center top;
+	background: url(../img/blueled.jpg);
 	background-size: 100% 100%;
 	margin-top: -60px;
 	background-attachment: relative;
