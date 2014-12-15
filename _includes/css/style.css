@@ -230,7 +230,7 @@ a:focus {
 
 #headerwrap h3, h5 {
 	color: white;
-	font-weight: 400;
+	/*font-weight: 400;*/
 }
 
 #headerwrap h1 {
