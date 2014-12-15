@@ -430,6 +430,12 @@ csmall {
     background-size: cover;
 }
 
+#linkswrap h2 {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	line-height: 20px;
+}
+
 #linkswrap h3, h5 {
 	color: black;
 	font-weight: 700;
@@ -438,6 +444,7 @@ csmall {
 #linkswrap h4 {
 	margin-top: 0px;
 	margin-bottom: 0px;
+	line-height: 20px;
 }
 
 /* Blog Page */
