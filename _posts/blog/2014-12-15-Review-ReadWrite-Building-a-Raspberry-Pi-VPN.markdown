@@ -10,6 +10,4 @@ img: post01.jpg # (850x450)
 thumb: thumb01.jpg # (70x70)
 ---
 
-[ReadWrite article on building a Raspberry PI VPN](http://readwrite.com/2014/04/10/raspberry-pi-vpn-tutorial-server-secure-web-browsing#awesm=~oBvYD8BOiTdCQN)
-
-<!--more--> # Indicates where the blog excerpt stops
+<a href="http://readwrite.com/2014/04/10/raspberry-pi-vpn-tutorial-server-secure-web-browsing#awesm=~oBvYD8BOiTdCQN" target="_blank">ReadWrite article on building a Raspberry PI VPN</a>
