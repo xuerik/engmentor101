@@ -27,12 +27,12 @@ address:
     - 9450 Gilman Drive
     - La Jolla, CA
 Email: dixu@ucsd.edu
-Phone: (626) xxx-xxxx
+# Phone: (626) xxx-xxxx
 
 about: "Engineering Mentorship 101 is a website to provide useful content for aspiring engineers and hobbyists. Created by Erik Xu."
 
-social: 
-  - title: GitHub
-    url:  https://github.com/xueyj
-  - title: Website Source Code
-    url:  https://github.com/xueyj/engmentor101
+# social: 
+#   - title: GitHub
+#     url:  https://github.com/xueyj
+#   - title: Website Source Code
+#     url:  https://github.com/xueyj/engmentor101
