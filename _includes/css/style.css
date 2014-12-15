@@ -372,6 +372,7 @@ a:focus {
 /* Index Wrap */
 #indexwrap {
 	background: url(../img/blueled.jpg) no-repeat center top;
+	background-size: contain;
 	margin-top: -60px;
 	padding-top:0px;
 	text-align:center;
