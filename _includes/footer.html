@@ -13,6 +13,7 @@
                     {% for network in site.social %}
                         <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-{{ network.title }}"></i></a>
                     {% endfor %}
+
                 </p>
             </div>
             <div class="col-lg-4">
@@ -20,6 +21,10 @@
                 <div class="hline-w"></div>
                 <p>
                     {% for line in site.address.first.lines %}
+                        {{ line }} <br>
+                    {% endfor %}
+
+                    {% for line in site.email %}
                         {{ line }} <br>
                     {% endfor %}
                 </p>
