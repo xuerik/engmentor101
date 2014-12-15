@@ -2,7 +2,7 @@
 
 # Site settings
 title: Engineering Mentorship 101
-description: "Online Portfolio for UC San Diego Fall 2014 CAT 125 course."
+description: "Online Portfolio for UC San Diego Fall 2014 CAT 125."
 analytics: UA-50546869-2
 baseurl: "/engmentor101" #important: start with /
 url: "http://xueyj.github.io"
@@ -29,5 +29,4 @@ address:
 Email: dixu@ucsd.edu
 Phone: (626) xxx-xxxx
 
-about: "Engineering Mentorship 101 is a website to provide to you, useful content. 
-Created by Erik Xu."
+about: "Engineering Mentorship 101 is a website to provide useful content for aspiring engineers and hobbyists. Created by Erik Xu."
