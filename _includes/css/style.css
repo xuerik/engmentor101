@@ -32,7 +32,6 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Raleway', sans-serif;
-	line-height: 24px;
 	font-weight: 700;
 }
 
@@ -444,7 +443,7 @@ csmall {
 #linkswrap h4 {
 	margin-top: 0px;
 	margin-bottom: 0px;
-	line-height: 20px;
+	line-height: 0px;
 }
 
 /* Blog Page */
