@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "How to create a website with GitHub"
 date: 2014-12-15 23:46:00
 author: Erik Xu
@@ -10,19 +10,15 @@ img: post02.jpg # (850x450)
 thumb: thumb02.jpg # (70x70)
 ---
 # What is GitHub?
-[GitHub](www.github.com) is an online repository where programmers can store backups of their code. GitHub allows 5 private repositories for free accounts and the rest are public. GitHub is a champion of open-source technology and millions of developers have shared their code on the site.
+[GitHub](https://www.github.com) is an online repository where programmers can store backups of their code. GitHub allows 5 private repositories for free accounts and the rest are public. GitHub is a champion of open-source technology and millions of developers have shared their code on the site.
 
 This tutorial will provide the basic and necessary informations to help you get started with creating a website for your projects or for yourself.
 <!--more-->
 ## Why is it important to have a website?
-A website, not to mention a free one, is very valuable in showcasing and documenting yourself to the world. First of all, employers will be interested in students and those who have an official (Sorry, Facebook)
-<span class="fa-stack fa-lg">
-<i class="fa fa-facebook fa-stack-2x text-danger"></i>
-<i class="fa fa-ban fa-stack-1x"></i>
-online profile of themselves. The purpose of having a website is to show prospective employers your portfolio of projects which neither a resume or cover letter can do.
+A website, not to mention a free one, is very valuable in showcasing and documenting yourself to the world. First of all, employers will be interested in students and those who have an official (Sorry, Facebook)<span class="fa-stack fa-lg"><i class="fa fa-facebook fa-stack-2x text-danger"></i><i class="fa fa-ban fa-stack-1x"></i> online profile of themselves. The purpose of having a website is to show prospective employers your portfolio of projects which neither a resume or cover letter can do.
 
 We will now begin our tutorial on creating a website with GitHub. No prior experience with HTML, CSS, or JavaScript is needed. However, those who are adept at these languages will have a smoother time with this.
-Begin by going on [github.com](www.github.com). You will immediately see a sign up form on the home page. If not, visit [here](https://github.com/join) to create an account.
+Begin by going on [github.com](https://www.github.com). You will immediately see a sign up form on the home page. If not, visit [here](https://github.com/join) to create an account.
 
 As soon as you have your account created and email confirmed, you can start by creating a repository.
 Head over to your profile page which should be in the form of: *https://github.com/USERNAME*
