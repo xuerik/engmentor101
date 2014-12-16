@@ -9,7 +9,7 @@ categories:
 img: post01.jpg # (850x450)
 thumb: thumb01.jpg # (70x70)
 ---
-
+<div class="col-lg-6">
 According to Lauren Orsini's article on <a href="http://readwrite.com/2014/04/10/raspberry-pi-vpn-tutorial-server-secure-web-browsing#awesm=~oBvYD8BOiTdCQN" target="_blank">ReadWrite</a>, she writes a step-by-step tutorial for creating a secure Virtual Private Network (VPN) server on the inexpensive and portable Raspberry Pi. Lauren does a great job in separating the different sections of her article using bolded typefaces. In addition, links are embedded into her text to point to the softwares used, instructions for setting up the Raspberry Pi and just information on the different type of technologies used. Lastly, I love how she incorporate screenshots into her website post to show readers the significant steps in the tutorial.
 <!--more-->
 Because of the format of Lauren's article, it's difficult to tell apart the different steps of the process. However, she uses bolded fonts to differentiate the big sections of the tutorial. In addition to separating the huge chunk of text, it also acts as a brief summary of what the reader expects to do in the sequent steps. Besides that, Lauren take advantage of different font sizes to separate section headings from key words. This simple usage of bolded and differently sized fonts allow the reader to quickly scan through the article to search for the steps they're looking for or to find a part or step that is different from the rest.
@@ -25,3 +25,5 @@ All in all, Lauren does a great job in showing the world how simple it is to pro
 This can assist users looking through or skimming through the article the apparent and unmistakable commands they need to follow. Because Lauren reserved bolded words for headings and key words, it wouldn't be wise to put the commands in bold, which is why she changed them to a different font. However, humans are used to recognizing different things by their colors or size, and a different set of font may not be that easy to tell apart.
 
 Overall, Lauren's article is effective and understandable even by those outside the field. She uses important elements in the website to make it comfortable to read and navigate. As good as it is, there are indeed some improvements that she could put into consideration to make it an even better article.
+
+</div>
