@@ -221,7 +221,7 @@ a:focus {
 
 	background: url(../img/blueled.jpg) no-repeat scroll;
 	background-attachment: relative;
-	width: 100%;
+	max-width: 100%;
 	max-height: 100%;
 	
     -webkit-background-size: 100%;
