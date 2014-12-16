@@ -44,18 +44,18 @@ Thank you very much for reading and I hope this outline will help you kickstart 
 * Previous internship experiences
 * Shows adaptability to corporate world and familiarity with industrial culture
 
-<h4>Green</h4>:
+<h4>Green:</h4>
 * Achiever, not doer
 * Precise and quantitative descriptions
 
-<h4>Blue</h4>:
+<h4>Blue:</h4>
 * Three columns
 * Consistent format: Position/City, Company/School, and Date
 
-<h4>Red</h4>:
+<h4>Red:</h4>
 * Put major GPA if it is higher
 * Indication of school performance and relative reference to others
 
-<h4>Purple</h4>:
+<h4>Purple:</h4>
 * Class and personal projects show application of school knowledge
 * Show recency and skill level of technologies
