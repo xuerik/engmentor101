@@ -32,7 +32,7 @@ Your computer should automatically recognize the initially unknown device.
 Run the downloaded IDE and go to the Tools menu on the top. Head down to <b>Serial Port</b> and choose <i>/dev/tty.usbmodem1451</i>. This is the communication serial which your computer will be interacting with the Arduino.
 
 Now, we want to setup our miniature Christmas lights circuit.
-<br><b>Step 1</b><br>
+<br><br><b>Step 1</b><br>
 Connect two resistors to two separate rows on the breadboard.
 <img class="blogpost" src="{{ "/assets/img/blog/Arduino-light-show/2.jpg" | prepend: site.baseurl }}" alt="">
 <br>
@@ -42,15 +42,16 @@ Connect the longer metal leg of each LED to the other end of the resistors.
 
 <b>Step 3</b><br>
 Connect 2 jumper cables to pins 12 and 13 on your Arduino and connect the other end to the leg of the resistors that are not connected to the LEDs.
-<img class="blogpost" src="{{ "/assets/img/blog/Arduino-light-show/3.jpg" | prepend: site.baseurl }}" alt="">
+<img class="blogpost" src="{{ "/assets/img/blog/Arduino-light-show/3.JPG" | prepend: site.baseurl }}" alt="">
 <br>
 
 <b>Step 4</b><br>
 Finally, connect a wire to ground and to the other end of the LEDs.
-<img class="blogpost" src="{{ "/assets/img/blog/Arduino-light-show/4.jpg" | prepend: site.baseurl }}" alt="">
+<img class="blogpost" src="{{ "/assets/img/blog/Arduino-light-show/4.JPG" | prepend: site.baseurl }}" alt="">
 This is what it should look like at the end after everything has been connected!
 <br>
 
+<br>
 Coding in Arduino is very much like coding in the programming language C.
 <br><b>Source code:</b><br>
 
