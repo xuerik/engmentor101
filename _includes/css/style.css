@@ -399,6 +399,9 @@ csmall {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+
+    color: white;
+    text-align: left;
 }
 
 #linkstextwrap h2 {
