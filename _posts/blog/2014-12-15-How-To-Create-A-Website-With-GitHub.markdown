@@ -20,33 +20,38 @@ A website, not to mention a free one, is very valuable in showcasing and documen
 We will now begin our tutorial on creating a website with GitHub. No prior experience with HTML, CSS, or JavaScript is needed. However, those who are adept at these languages will have a smoother time with this.
 Begin by going on [github.com](https://www.github.com).
 
+
 <img class="blogpost" src="{{ "/assets/img/blog/how-to-github-website/1.jpg" | prepend: site.baseurl }}" alt="">
-You will immediately see a sign up form on the home page. If not, visit [here](https://github.com/join) to create an account.
+<blockquote>You will immediately see a sign up form on the home page. If not, visit [here](https://github.com/join) to create an account.</blockquote>
 
 As soon as you have your account created and email confirmed, you can start by creating a repository.
 Head over to your profile page which should be in the form: *https://github.com/USERNAME*
 Click on the Repositories tab and press New to make your first repository.
 
+
 <img class="blogpost" src="{{ "/assets/img/blog/how-to-github-website/2.jpg" | prepend: site.baseurl }}" alt="">
-In order to create a website, the repository name must be *YOUR_USERNAME.github.io*
+<blockquote>In order to create a website, the repository name must be *YOUR_USERNAME.github.io*</blockquote>
 
 Choose  whether you want it to be public (open-source) or private where only you can see the source code and files you upload.
 Finish up by clicking on the **Create repository button**. Congratulations! You've successfully created your first repository on GitHub.
 
 Assuming you have no experience with the previously mentioned web development languages, I will guide you to the automatic page generator. First, head over to your repository page.
 
+
 <img class="blogpost" src="{{ "/assets/img/blog/how-to-github-website/3.jpg" | prepend: site.baseurl }}" alt="">
-On the sidebar to the right, find the **Settings** link and click on it. Don't fear the myriad of settings that you see.
+<blockquote>On the sidebar to the right, find the **Settings** link and click on it. Don't fear the myriad of settings that you see.</blockquote>
 
 Scroll down until you see the **GitHub Pages** section. Under that, you want to click on *Automatic page generator*. This will now begin the process of generating your website from a variety of pre-made templates. Skip over the **New user site** page and just scroll down to **Continue to layouts**.
 
+
 <img class="blogpost" src="{{ "/assets/img/blog/how-to-github-website/4.jpg" | prepend: site.baseurl }}" alt="">
-At the top, there will be some themes to choose from. Choose whichever one you like and press **Publish page**.
+<blockquote>At the top, there will be some themes to choose from. Choose whichever one you like and press **Publish page**.</blockquote>
 
 Now you're all set! I bet you're eager to show to the world your website. Browse to *YOUR_USERNAME.github.io* and viola, there is your very own personal website. But, wait a minute. You need to edit the content that is actually on the website.
 
+
 <img class="blogpost" src="{{ "/assets/img/blog/how-to-github-website/5.jpg" | prepend: site.baseurl }}" alt="">
-You can do this by visiting the repository that you made and clicking on *index.html* which is the file containing all the text that you saw earlier. Utilize **ctrl+f** to find what you want to edit.
+<blockquote>You can do this by visiting the repository that you made and clicking on *index.html* which is the file containing all the text that you saw earlier. Utilize **ctrl+f** to find what you want to edit.</blockquote>
 
 Have you noticed anything about my website, so far? Yes, if you're thinking what I'm thinking, then you're absolutely right! My website is created entirely from scratch using GitHub and a template that I chose. I had no prior experience with HTML or CSS, but I learned more and more as I tried to modify text, layout and formatting of the website.
 

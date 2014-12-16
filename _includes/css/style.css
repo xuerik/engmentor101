@@ -87,11 +87,14 @@ a:focus {
 
 .centered {
 	text-align: center
-	max-height: 400px;
+/*	max-height: 400px;*/
 }
 
 .blogpost {
 	/*max-width: 300px;*/
+	display: block;
+    margin-left: auto;
+    margin-right: auto
 }
 
 /*	################################################################
