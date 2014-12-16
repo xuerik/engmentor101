@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to create a website with GitHub"
+title: "How To Create A Website With GitHub"
 date: 2014-12-15 23:46:00
 author: Erik Xu
 categories: 
@@ -40,7 +40,7 @@ Assuming you have no experience with the previously mentioned web development la
 
 
 <img class="blogpost" src="{{ "/assets/img/blog/how-to-github-website/3.jpg" | prepend: site.baseurl }}" alt="">
-<pre>On the sidebar to the right, find the **Settings** link and click on it. Don't fear the myriad of settings that you see.</pre>
+<pre>On the sidebar to the right, find the <b>Settings</b> link and click on it. Don't fear the myriad of settings that you see.</pre>
 
 <br>
 Scroll down until you see the **GitHub Pages** section. Under that, you want to click on *Automatic page generator*. This will now begin the process of generating your website from a variety of pre-made templates. Skip over the **New user site** page and just scroll down to **Continue to layouts**.
@@ -54,7 +54,7 @@ Now you're all set! I bet you're eager to show to the world your website. Browse
 
 
 <img class="blogpost" src="{{ "/assets/img/blog/how-to-github-website/5.jpg" | prepend: site.baseurl }}" alt="">
-<pre>You can do this by visiting the repository that you made and clicking on *index.html* which is the file containing all the text that you saw earlier. Utilize **ctrl+f** to find what you want to edit.</pre>
+<pre>You can do this by visiting the repository that you made and clicking on <i>index.html</i> which is the file containing all the text that you saw earlier. Utilize <b>ctrl+f</b> to find what you want to edit.</pre>
 
 Have you noticed anything about my website, so far? Yes, if you're thinking what I'm thinking, then you're absolutely right! My website is created entirely from scratch using GitHub and a template that I chose. I had no prior experience with HTML or CSS, but I learned more and more as I tried to modify text, layout and formatting of the website.
 
