@@ -17,11 +17,57 @@ An [Arduino](http://arduino.cc/) is an inexpensive and portable microcontroller.
 Let's get started, shall we?
 
 The hardware needed are:
-1. Arduino (Available on [Adafruit](http://www.adafruit.com/products/50) and [SparkFun](https://www.sparkfun.com/products/11021))
-2. Breadboard ([Amazon.com](http://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Daps&field-keywords=breadboard))
-3. LEDs ([eBay.com](http://www.ebay.com/sch/i.html?_odkw=cheap+light+emitting+diode&_from=R40%7CR40&_osacat=0&_from=R40&_trksid=p2045573.m570.l1313.TR4.TRC2.A0.H0.Xlight+emitting+diode&_nkw=light+emitting+diode&_sacat=0))
-4. Resistors ([eBay.com](http://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR11.TRC1.A0.H0.Xresistors&_nkw=resistors&_sacat=0))
+<br><b>1.</b> Arduino (Available on [Adafruit](http://www.adafruit.com/products/50) and [SparkFun](https://www.sparkfun.com/products/11021))<br>
+<b>2.</b> Breadboard ([Amazon.com](http://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Daps&field-keywords=breadboard))
+<b>3.</b> LEDs ([eBay.com](http://www.ebay.com/sch/i.html?_odkw=cheap+light+emitting+diode&_from=R40%7CR40&_osacat=0&_from=R40&_trksid=p2045573.m570.l1313.TR4.TRC2.A0.H0.Xlight+emitting+diode&_nkw=light+emitting+diode&_sacat=0))<br>
+<b>4.</b> Resistors ([eBay.com](http://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR11.TRC1.A0.H0.Xresistors&_nkw=resistors&_sacat=0), resistors are needed so the LEDs don't short themselves out from the high voltage) 
 
 After purchasing all the material, we can now start our Christmas lights assembly.
-First of all, begin by downloading the Arduino IDE (Integrated Development Environment) which is where we will type our code to the Arduino to control the LEDs.
+First of all, begin by downloading the [Arduino IDE](http://arduino.cc/en/main/software) (Integrated Development Environment) which is where we will type our code to the Arduino to control the LEDs.
 
+Connect your Arduino cable to your computer's USB port.
+Your computer should automatically recognize the initially unknown device.
+Run the downloaded IDE and go to the Tools menu on the top. Head down to <b>Serial Port</b> and choose <i>/dev/tty.usbmodem1451</i>. This is the communication serial which your computer will be interacting with the Arduino.
+
+Now, we want to setup our miniature Christmas lights circuit.
+<b>Step 1</b>
+Connect two resistors to two separate rows on the breadboard.
+<img class="blogpost" src="{{ "/assets/img/blog/resume-tips/1.png" | prepend: site.baseurl }}" alt="">
+<br>
+
+<b>Step 2</b>
+Connect the longer metal leg of each LED to the other end of the resistors.
+<img class="blogpost" src="{{ "/assets/img/blog/resume-tips/1.png" | prepend: site.baseurl }}" alt="">
+<br>
+
+<b>Step 3</b>
+Connect 2 jumper cables to pins 12 and 13 on your Arduino and connect the other end to the leg of the resistors that are not connected to the LEDs.
+<img class="blogpost" src="{{ "/assets/img/blog/resume-tips/1.png" | prepend: site.baseurl }}" alt="">
+<br>
+
+<b>Step 4</b>
+Finally, connect a wire to ground and to the other end of the LEDs.
+<img class="blogpost" src="{{ "/assets/img/blog/resume-tips/1.png" | prepend: site.baseurl }}" alt="">
+<br>
+
+<blockquote>
+int led = 13;
+int led1 = 12;
+
+void setup() {                
+  // initialize the digital pin as an output.
+  pinMode(led, OUTPUT);     
+  pinMode(led1, OUTPUT);   
+}
+
+void loop() {
+  digitalWrite(led, HIGH);   // turn the LED on (HIGH is the voltage level)
+  digitalWrite(led1, LOW);
+  delay(1000);               // wait for a second
+  digitalWrite(led, LOW);    // turn the LED off by making the voltage LOW
+  digitalWrite(led1, HIGH);
+  delay(1000);               // wait for a second
+}</blockquote>
+
+With this, I leave you to create your own array and entire tree of Christmas lights!
+Check out other cool Arduino projects on [Instructables](http://www.instructables.com/id/Arduino-Projects/) and other various websites.
