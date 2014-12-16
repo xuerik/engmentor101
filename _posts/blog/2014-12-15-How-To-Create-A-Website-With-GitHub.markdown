@@ -37,7 +37,7 @@ Have you noticed anything about my website, so far? Yes, if you're thinking what
 
 You are now strong enough to face the wild, young grasshopper. I will leave with you a few valuable resources to playing around and adding to your website.
 
-[Markdown basics](https://help.github.com/articles/markdown-basics/)
+[Markdown basics](https://help.github.com/articles/markdown-basics/)<br>
 [One of the best and biggest web development resources](http://www.w3schools.com/)
 
 For additional assistance and resources, visit the [links](http://xueyj.github.io/engmentor101/links/) page and feel free to [contact](mailto:dixu@ucsd.edu) me if you have any questions!
