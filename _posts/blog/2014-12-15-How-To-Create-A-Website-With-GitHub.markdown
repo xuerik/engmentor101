@@ -33,7 +33,7 @@ Click on the Repositories tab and press New to make your first repository.
 <pre>In order to create a website, the repository name must be <b>YOUR_USERNAME.github.io</b></pre>
 
 <br>
-Choose  whether you want it to be public (open-source) or private where only you can see the source code and files you upload.
+Choose whether you want it to be public (open-source) or private where only you can see the source code and files you upload.
 Finish up by clicking on the **Create repository button**. Congratulations! You've successfully created your first repository on GitHub.
 
 Assuming you have no experience with the previously mentioned web development languages, I will guide you to the automatic page generator. First, head over to your repository page.
