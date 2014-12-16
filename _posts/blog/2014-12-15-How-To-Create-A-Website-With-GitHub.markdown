@@ -9,7 +9,7 @@ categories:
 img: post02.jpg # (850x450)
 thumb: thumb02.jpg # (70x70)
 ---
-## What is GitHub?
+### What is GitHub?
 [GitHub](https://www.github.com) is an online repository where programmers can store backups of their code. GitHub allows 5 private repositories for free accounts and the rest are public. GitHub is a champion of open-source technology and millions of developers have shared their code on the site.
 
 This tutorial will provide the basic and necessary informations to help you get started with creating a website for your projects or for yourself.
@@ -58,7 +58,7 @@ Now you're all set! I bet you're eager to show to the world your website. Browse
 
 Have you noticed anything about my website, so far? Yes, if you're thinking what I'm thinking, then you're absolutely right! My website is created entirely from scratch using GitHub and a template that I chose. I had no prior experience with HTML or CSS, but I learned more and more as I tried to modify text, layout and formatting of the website.
 
-You are now strong enough to face the wild, young grasshopper. I will leave with you a few valuable resources to playing around and adding to your website.
+You are now strong enough to face the wild, young grasshopper. I will leave with you a few valuable resources to play around and add to your website.
 
 [Markdown basics](https://help.github.com/articles/markdown-basics/)<br>
 [One of the best and biggest web development resources](http://www.w3schools.com/)

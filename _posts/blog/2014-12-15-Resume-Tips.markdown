@@ -9,7 +9,7 @@ categories:
 img: post03.jpg # (850x450)
 thumb: thumb03.jpg # (70x70)
 ---
-###Have you ever wondered what a good resume looks like or are wondering what to include or leave out in yours?
+###What does a good resume looks like or what should I include or leave out?
 Well, look no further! I will share with you some tips on getting your resume past the screening process and onto the interviewing stages.
 <!--more-->
 If you don't have a resume, let's take a look at this sample resume that contains great formatting, structure and content.
@@ -40,18 +40,22 @@ Thank you very much for reading and I hope this outline will help you kickstart 
 
 
 ### Recap: Why it works
-#### Yellow:
+<h4>Yellow:</h4>
 * Previous internship experiences
 * Shows adaptability to corporate world and familiarity with industrial culture
 
-#### Green:
+<h4>Green</h4>:
 * Achiever, not doer
 * Precise and quantitative descriptions
 
-#### Blue:
+<h4>Blue</h4>:
 * Three columns
 * Consistent format: Position/City, Company/School, and Date
 
-#### Purple:
+<h4>Red</h4>:
+* Put major GPA if it is higher
+* Indication of school performance and relative reference to others
+
+<h4>Purple</h4>:
 * Class and personal projects show application of school knowledge
 * Show recency and skill level of technologies
