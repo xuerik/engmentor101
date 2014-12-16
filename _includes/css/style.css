@@ -302,63 +302,6 @@ a:focus {
 	text-align:center;
 }
 
-/* Testimonials Wrap */
-#twrapback {
-    background-color: {{ site.colors.primary }};
-    background-color:rgba({{ site.colors.primary_rgb }},.8);
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
-
-#twrap {
-    background: url(../img/t-back.jpg) no-repeat center top;
-    position: relative;
-    margin-top: 0px;
-	padding-top:60px;
-	text-align:center;
-	background-attachment: relative;
-	background-position: center center;
-	min-height: 450px;
-	width: 100%;
-	
-    -webkit-background-size: 100%;
-    -moz-background-size: 100%;
-    -o-background-size: 100%;
-    background-size: 100%;
-
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-}
-
-#twrap i {
-	font-size: 50px;
-	color: white;
-	margin-bottom: 25px;
-}
-
-#twrap p {
-	color: white;
-	font-size: 15px;
-	line-height: 30px;
-}
-
-/* clients logo */
-#cwrap {
-	background: #f7f7f7;
-	margin-top: 0px;
-	padding-top: 80px;
-	padding-bottom: 100px;
-}
-
-#cwrap h3 {
-	margin-bottom: 60px;
-}
-
 /* Footer */
 #footerwrap {
 	padding-top: 60px;
@@ -384,28 +327,12 @@ a:focus {
 	color: {{ site.colors.primary }}
 }
 
-/* Index Wrap
-#indexwrap {
-	background: url(../img/blueled.jpg) no-repeat center top;
-	background-size: contain;
-	margin-top: -60px;
-	padding-top:0px;
-	text-align:center;
-	background-attachment: relative;
-	background-position: center center;
-	min-height: 400px;
-	width: 100%;
-	
-    -webkit-background-size: 100%;
-    -moz-background-size: 100%;
-    -o-background-size: 100%;
-    background-size: 100%;
-
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-}*/
+/* Post wrap */
+#postwrap {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
 
 /*	################################################################
 	PAGE CONFIGURATIONS
