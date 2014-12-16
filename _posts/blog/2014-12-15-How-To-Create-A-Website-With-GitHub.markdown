@@ -7,7 +7,7 @@ categories:
 - blog
 - Guides
 img: post02.jpg # (850x450)
-thumb: thumb02.jpg # (70x70)
+thumb: thumb02.png # (70x70)
 ---
 ### What is GitHub?
 [GitHub](https://www.github.com) is an online repository where programmers can store backups of their code. GitHub allows 5 private repositories for free accounts and the rest are public. GitHub is a champion of open-source technology and millions of developers have shared their code on the site.

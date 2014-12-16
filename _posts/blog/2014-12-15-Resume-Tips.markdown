@@ -7,7 +7,7 @@ categories:
 - blog
 - Career
 img: post03.jpg # (850x450)
-thumb: thumb03.jpg # (70x70)
+thumb: thumb03.png # (70x70)
 ---
 ###What does a good resume looks like or what should I include or leave out?
 Well, look no further! I will share with you some tips on getting your resume past the screening process and onto the interviewing stages.
