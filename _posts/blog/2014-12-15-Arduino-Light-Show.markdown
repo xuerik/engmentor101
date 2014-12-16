@@ -32,44 +32,50 @@ Run the downloaded IDE and go to the Tools menu on the top. Head down to <b>Seri
 Now, we want to setup our miniature Christmas lights circuit.
 <br><b>Step 1</b>
 Connect two resistors to two separate rows on the breadboard.
-<img class="blogpost" src="{{ "/assets/img/blog/resume-tips/1.png" | prepend: site.baseurl }}" alt="">
+<img class="blogpost" src="{{ "/assets/img/blog/Arduino-light-show/1.jpg" | prepend: site.baseurl }}" alt="">
 <br>
 
 <b>Step 2</b>
 Connect the longer metal leg of each LED to the other end of the resistors.
-<img class="blogpost" src="{{ "/assets/img/blog/resume-tips/1.png" | prepend: site.baseurl }}" alt="">
+<img class="blogpost" src="{{ "/assets/img/blog/Arduino-light-show/2.jpg" | prepend: site.baseurl }}" alt="">
 <br>
 
 <b>Step 3</b>
 Connect 2 jumper cables to pins 12 and 13 on your Arduino and connect the other end to the leg of the resistors that are not connected to the LEDs.
-<img class="blogpost" src="{{ "/assets/img/blog/resume-tips/1.png" | prepend: site.baseurl }}" alt="">
+<img class="blogpost" src="{{ "/assets/img/blog/Arduino-light-show/3.jpg" | prepend: site.baseurl }}" alt="">
 <br>
 
 <b>Step 4</b>
 Finally, connect a wire to ground and to the other end of the LEDs.
-<img class="blogpost" src="{{ "/assets/img/blog/resume-tips/1.png" | prepend: site.baseurl }}" alt="">
+<img class="blogpost" src="{{ "/assets/img/blog/Arduino-light-show/4.jpg" | prepend: site.baseurl }}" alt="">
 This is what it should look like at the end after everything has been connected!
 <br>
 
+Coding in Arduino is very much like coding in the programming language C.
+<b>Source code:</b><br>
+
 <blockquote>
-1. int led = 13;<br>
-2. int led1 = 12;<br>
-3.
-4. void setup() {<br>                
-5. // initialize the digital pin as an output.<br>
-6.  pinMode(led, OUTPUT);     <br>
-7.  pinMode(led1, OUTPUT);   <br>
-8. }<br>
-9.
-10. void loop() {<br>
-11.   digitalWrite(led, HIGH);   // turn the LED on (HIGH is the voltage level)<br>
-12.	  digitalWrite(led1, LOW);<br>
-13.	  delay(1000);               // wait for a second<br>
-14.	  digitalWrite(led, LOW);    // turn the LED off by making the voltage LOW<br>
-15.	  digitalWrite(led1, HIGH);<br>
-16.	  delay(1000);               // wait for a second<br>
-17. }
+int led = 13;<br>
+int led1 = 12;<br>
+<br>
+void setup() {         <br>       
+  // initialize the digital pin as an output.<br>
+  pinMode(led, OUTPUT);     <br>
+  pinMode(led1, OUTPUT);   <br>
+}<br>
+<br>
+void loop() {<br>
+  digitalWrite(led, HIGH);   // turn the LED on (HIGH is the voltage level)<br>
+  digitalWrite(led1, LOW);<br>
+  delay(1000);               // wait for a second<br>
+  digitalWrite(led, LOW);    // turn the LED off by making the voltage LOW<br>
+  digitalWrite(led1, HIGH);<br>
+  delay(1000);               // wait for a second<br>
+}
 </blockquote>
 
+<Step 5>
+Press <b>Upload</b> and your LEDs should be alternately switching on and off every second. 
+
 With this, I leave you to create your own array and entire tree of Christmas lights!
-Check out other cool Arduino projects on [Instructables](http://www.instructables.com/id/Arduino-Projects/) and other various websites.
+<br>Check out other cool Arduino projects on [Instructables](http://www.instructables.com/id/Arduino-Projects/) and other various websites on my [Links](http://xueyj.github.io/engmentor101/links/) page.
