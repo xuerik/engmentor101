@@ -26,33 +26,33 @@ After purchasing all the material, we can now start our Christmas lights assembl
 First of all, begin by downloading the [Arduino IDE](http://arduino.cc/en/main/software) (Integrated Development Environment) which is where we will type our code to the Arduino to control the LEDs.
 
 Connect your Arduino cable to your computer's USB port.
+<br><img class="blogpost" src="{{ "/assets/img/blog/Arduino-light-show/1.jpg" | prepend: site.baseurl }}" alt="">
+<br>
 Your computer should automatically recognize the initially unknown device.
 Run the downloaded IDE and go to the Tools menu on the top. Head down to <b>Serial Port</b> and choose <i>/dev/tty.usbmodem1451</i>. This is the communication serial which your computer will be interacting with the Arduino.
 
 Now, we want to setup our miniature Christmas lights circuit.
-<br><b>Step 1</b>
+<br><b>Step 1</b><br>
 Connect two resistors to two separate rows on the breadboard.
-<img class="blogpost" src="{{ "/assets/img/blog/Arduino-light-show/1.jpg" | prepend: site.baseurl }}" alt="">
-<br>
-
-<b>Step 2</b>
-Connect the longer metal leg of each LED to the other end of the resistors.
 <img class="blogpost" src="{{ "/assets/img/blog/Arduino-light-show/2.jpg" | prepend: site.baseurl }}" alt="">
 <br>
 
-<b>Step 3</b>
+<b>Step 2</b><br>
+Connect the longer metal leg of each LED to the other end of the resistors.
+
+<b>Step 3</b><br>
 Connect 2 jumper cables to pins 12 and 13 on your Arduino and connect the other end to the leg of the resistors that are not connected to the LEDs.
 <img class="blogpost" src="{{ "/assets/img/blog/Arduino-light-show/3.jpg" | prepend: site.baseurl }}" alt="">
 <br>
 
-<b>Step 4</b>
+<b>Step 4</b><br>
 Finally, connect a wire to ground and to the other end of the LEDs.
 <img class="blogpost" src="{{ "/assets/img/blog/Arduino-light-show/4.jpg" | prepend: site.baseurl }}" alt="">
 This is what it should look like at the end after everything has been connected!
 <br>
 
 Coding in Arduino is very much like coding in the programming language C.
-<b>Source code:</b><br>
+<br><b>Source code:</b><br>
 
 <blockquote>
 int led = 13;<br>
