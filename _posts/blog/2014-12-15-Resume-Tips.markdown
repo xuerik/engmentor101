@@ -36,6 +36,11 @@ After that, all the technologies, programming languages and software that you ar
 
 Thank you very much for reading and I hope this outline will help you kickstart your career!
 
+Some additional resources (Previously asked interview questions, salary info., algorithm problems and programming concepts) to help you prepare for a career in the future are:
+<a href="http://codingforinterviews.com/" target="_blank">Coding for Interviews</a><br>
+<a href="http://www.careercup.com/" target="_blank">Career Cup</a><br>
+<a href="hhttp://www.glassdoor.com/index.htm" target="_blank">Glassdoor</a>
+
 
 ### Recap: Why it works
 <h4>Yellow:</h4>
