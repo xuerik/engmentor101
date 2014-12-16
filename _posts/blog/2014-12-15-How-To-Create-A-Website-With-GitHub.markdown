@@ -28,7 +28,6 @@ Begin by going on [github.com](https://www.github.com).
 As soon as you have your account created and email confirmed, you can start by creating a repository.
 Head over to your profile page which should be in the form: *https://github.com/USERNAME*
 Click on the Repositories tab and press New to make your first repository.
-
 <br>
 <img class="blogpost" src="{{ "/assets/img/blog/how-to-github-website/2.jpg" | prepend: site.baseurl }}" alt="">
 <pre>In order to create a website, the repository name must be <b>YOUR_USERNAME.github.io</b></pre>
@@ -43,14 +42,14 @@ Assuming you have no experience with the previously mentioned web development la
 <img class="blogpost" src="{{ "/assets/img/blog/how-to-github-website/3.jpg" | prepend: site.baseurl }}" alt="">
 <pre>On the sidebar to the right, find the **Settings** link and click on it. Don't fear the myriad of settings that you see.</pre>
 
-
+<br>
 Scroll down until you see the **GitHub Pages** section. Under that, you want to click on *Automatic page generator*. This will now begin the process of generating your website from a variety of pre-made templates. Skip over the **New user site** page and just scroll down to **Continue to layouts**.
 
 
 <img class="blogpost" src="{{ "/assets/img/blog/how-to-github-website/4.jpg" | prepend: site.baseurl }}" alt="">
-<pre>At the top, there will be some themes to choose from. Choose whichever one you like and press <b>Publish page<b>.</pre>
+<pre>At the top, there will be some themes to choose from. Choose whichever one you like and press <b>Publish page</b>.</pre>
 
-
+<br>
 Now you're all set! I bet you're eager to show to the world your website. Browse to *YOUR_USERNAME.github.io* and viola, there is your very own personal website. But, wait a minute. You need to edit the content that is actually on the website.
 
 
