@@ -75,7 +75,7 @@ void loop() {<br>
 }
 </blockquote>
 
-<Step 5>
+<b>Step 5</b>
 Press <b>Upload</b> and your LEDs should be alternately switching on and off every second. 
 
 With this, I leave you to create your own array and entire tree of Christmas lights!
