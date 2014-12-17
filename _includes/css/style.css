@@ -406,20 +406,17 @@ csmall {
 	margin-top: 0px;
 	margin-bottom: 5px;
 	line-height: 24px;
-	text-align: center;
 }
 
 #linkstextwrap h3, h5 {
 	color: black;
 	font-weight: 700;
-	text-align: center;
 }
 
 #linkstextwrap h4 {
 	margin-top: 0px;
 	margin-bottom: 8px;
 	line-height: 20px;
-	text-align: center;
 }
 
 /* Blog Page */
