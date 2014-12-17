@@ -274,10 +274,15 @@ a:focus {
 	margin-bottom: 60px;
 	display: block;
 	text-align: center
+
 }
 
 #portfoliowrap h3 {
 	margin-bottom: 25px;
+}
+
+#portfoliowrap .img-responsive {
+	max-height: 500px;
 }
 
 .portfolio {
