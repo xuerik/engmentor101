@@ -55,8 +55,7 @@ This is what it should look like at the end after everything has been connected!
 Coding in Arduino is very much like coding in the programming language C.
 <br><b>Source code:</b><br>
 
-<blockquote>
-int led = 13;<br>
+<blockquote>int led = 13;<br>
 int led1 = 12;<br>
 <br>
 void setup() {         <br>       
@@ -75,7 +74,7 @@ void loop() {<br>
 }
 </blockquote>
 
-<b>Step 5</b>
+<b>Step 5</b><br>
 Press <b>Upload</b> and your LEDs should be alternately switching on and off every second. 
 
 With this, I leave you to create your own array and entire tree of Christmas lights!
